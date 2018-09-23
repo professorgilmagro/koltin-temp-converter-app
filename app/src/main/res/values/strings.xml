@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KTempConverter</string>
+    <string name="enter_temp_value">Digite a temperatura</string>
+    <string name="celcius">Celcius</string>
+    <string name="fahreinheit">Fahreinheit</string>
+    <string name="temp_convert">Converter temperatura</string>
+</resources>
